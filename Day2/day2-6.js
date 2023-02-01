@@ -1,9 +1,10 @@
-function solution(array) {
-
-    const mid_num = Math.floor(array.length / 2);
-  
-  
-    const jjin_array = array.sort((a, b) => a - b);
-  
-    return jjin_array[mid_num];
-  }
+function solution(n) {
+    var answer = [];
+    
+    for (let i = 1; i <= n; i++) {
+        if(i%2 === 1) {
+            answer.push(i);
+        }
+    }
+    return answer;
+}
