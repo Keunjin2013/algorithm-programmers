@@ -1,8 +1,6 @@
 <div align=center>
   <h1>algorithm-programmers<h1>
-</div>
-<div align=center>
-  <h3>프로그래머스를 통한 코딩테스트 연습 기록<h3>
+   <h3>프로그래머스를 통한 코딩테스트 연습 기록<h3>
 </div>
 <div align=center>
  <h4>:+1:Languages:+1:<h4>
