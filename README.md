@@ -5,7 +5,7 @@
 <br/>
 <div align=center>
  <h4>:+1:Languages:+1:<h4>
-   하루에 4문제 이상씩 풀고 기록
-   <br>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+ 하루에 4문제 이상씩 풀고 기록
+ <br>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </div>
