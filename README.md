@@ -1,6 +1,6 @@
 <div align=center>
-  <h1>algorithm-programmers<h1>
-  <h3>프로그래머스를 통한 코딩테스트 연습 기록<h3>
+  <h1>algorithm-programmers
+  <h3>프로그래머스를 통한 코딩테스트 연습 기록
 </div>
 <br/>
 <div align=center>
