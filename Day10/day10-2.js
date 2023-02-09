@@ -7,5 +7,5 @@ function solution(my_string) {
         answer.push(result[i]);
         
     }
-    return answer.sort((a,b) => a - b).map((i) => Number(i))
+    return answer.sort((a,b) => a - b).map((i) => Number(i));
 }
