@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(my_string) {
     var answer = [];
     const regex = /[^0-9]/g;
