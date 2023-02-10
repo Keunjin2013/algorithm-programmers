@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(dot) {
     var answer = 0;
     

@@ -1,4 +1,4 @@
-
+//commit 메세지 수정
 function solution(num_list) {
     var answer = [];
     var even = [];
