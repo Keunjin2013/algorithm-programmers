@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(rsp) {
     var answer = [];
     for(var i=0; i<rsp.length; i++) {

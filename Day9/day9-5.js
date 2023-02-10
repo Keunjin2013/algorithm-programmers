@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(cipher, code) {
     var answer = '';
     for(var i=code-1; i<=cipher.length; i+=code) {

@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(hp) {
     var first = parseInt(hp/5);
     var second = parseInt((hp-first*5)/3);
