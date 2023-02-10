@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(numbers) {
     var answer = 0;
     var sum = 0;

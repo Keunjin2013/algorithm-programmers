@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(numer1, denom1, numer2, denom2) {
     var answer = [];
     
