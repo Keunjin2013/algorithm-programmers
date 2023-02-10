@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(array) {
 
     const mid_num = Math.floor(array.length / 2);
