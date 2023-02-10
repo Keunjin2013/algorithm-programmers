@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(my_string, letter) {
     var answer = '';
     var replace = my_string

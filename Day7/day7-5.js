@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(price) {
     var answer = 0;
     

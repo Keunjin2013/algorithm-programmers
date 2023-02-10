@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(sides) {
     var answer = 0;
     sides.sort((a,b) => a - b);
