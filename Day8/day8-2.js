@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(s1, s2) {
     var answer = 0;
     for (var i=0; i<s1.length; i++) {

@@ -1,3 +1,4 @@
+//commit 메세지 수정
 function solution(str1, str2) {
     var answer = 0;
     if (str1.includes(str2)) {
